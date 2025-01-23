@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/neworleans.json",
     "label" : "New Orleans"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/moon.json",
+    "label" : "Moon"
   } ]
 }
