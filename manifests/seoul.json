@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Monica Bongiorni, Arianna Denitto",
   "sequences" : [ {
     "@id" : "http://b181a854-9fb5-4455-a970-61e97c6268c8",
     "@type" : "sc:Sequence",
