@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/britneyspears.json",
     "label" : "Britney Spears"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/mcdonalds.json",
+    "label" : "McDonald's"
   } ]
 }
