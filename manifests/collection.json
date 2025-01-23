@@ -45,5 +45,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/moon.json",
     "label" : "Moon"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/money.json",
+    "label" : "Moon"
   } ]
 }
