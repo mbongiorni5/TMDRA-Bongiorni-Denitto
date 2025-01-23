@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/money.json",
   "@type" : "sc:Manifest",
-  "label" : "Moon",
+  "label" : "Money",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A picture of a stack of American dollars",
