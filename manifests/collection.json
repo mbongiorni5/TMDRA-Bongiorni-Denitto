@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/armenia.json",
     "label" : "Armenia"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/neworleans.json",
+    "label" : "New Orleans"
   } ]
 }
