@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/armenia.json",
+  "@type" : "sc:Manifest",
+  "label" : "Armenia",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A map of Armenia",
+    "@language" : "en"
+  } ],
+  "license" : "",
+  "attribution" : "Arianna Denitto, Monica Bongiorni ",
+  "sequences" : [ {
+    "@id" : "http://b181a854-9fb5-4455-a970-61e97c6268c8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://25800200-a4c0-4596-bcc8-47d4fafaf9ac",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : "668",
+      "width" : "1000",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6096a7af-3073-4939-8251-40c57a657694",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/seoul/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/seoul",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 668,
+          "width" : 1000
+        },
+        "on" : "http://25800200-a4c0-4596-bcc8-47d4fafaf9ac"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6d92738d-d276-492c-a890-352a541cdfce",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : "1016",
+      "width" : "639",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://df9207ad-18c5-4679-ab83-6d556f39f6ef",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/britneyspears/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/britneyspears",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1016,
+          "width" : 639
+        },
+        "on" : "http://6d92738d-d276-492c-a890-352a541cdfce"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://201857e0-f17c-4c4e-a528-424e109412c4",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : "600",
+      "width" : "1024",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://12b2d70a-9096-4f79-b46c-0b53a7bde4ce",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/mcdonalds/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/mcdonalds",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 600,
+          "width" : 1024
+        },
+        "on" : "http://201857e0-f17c-4c4e-a528-424e109412c4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://68ab0240-4256-4689-969d-8b28e4443b2c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : "400",
+      "width" : "800",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://717a4028-65e3-4be2-a355-709e269873f8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/youtubelogo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/youtubelogo",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 400,
+          "width" : 800
+        },
+        "on" : "http://68ab0240-4256-4689-969d-8b28e4443b2c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://38496fa5-7cda-4b20-88ee-60768c49acc5",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : "568",
+      "width" : "905",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://243e81fe-5feb-4b54-ac3d-5dd89a6d77a3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/armenia/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/armenia",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 568,
+          "width" : 905
+        },
+        "on" : "http://38496fa5-7cda-4b20-88ee-60768c49acc5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
