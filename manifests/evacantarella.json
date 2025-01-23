@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/evacantarella.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Eva Cantarella",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "A picture of italian writer Eva Cantarella",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Arianna Denitto, Monica Bongiorni ",
   "sequences" : [ {
     "@id" : "http://9b44b42c-eebb-4726-8054-865baaca27bc",
     "@type" : "sc:Sequence",
