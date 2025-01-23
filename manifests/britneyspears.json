@@ -29,7 +29,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/seoul/full/full/0/default.jpg",
+          "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/britneyspears/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
