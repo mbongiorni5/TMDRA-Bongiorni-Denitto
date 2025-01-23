@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/youtubelogo.json",
     "label" : "YouTube"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/armenia.json",
+    "label" : "Armenia"
   } ]
 }
