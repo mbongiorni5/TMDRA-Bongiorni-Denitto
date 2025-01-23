@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/evacantarella1.json",
     "label" : "Eva Cantarella"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/manifests/seoul.json",
+    "label" : "Seoul"
   } ]
 }
