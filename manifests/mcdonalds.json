@@ -34,7 +34,7 @@
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/seoul",
+            "@id" : "https://mbongiorni5.github.io/TMDRA-Bongiorni-Denitto/images/mcdonalds",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 668,
